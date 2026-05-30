@@ -199,6 +199,4 @@ print "All done"
 | 拉伸时间      | 1500 ps             | 总应变 15%          |
 | 应力输出文件  | Al_SC_100.def1.txt  | 单位 GPa            |
 | 轨迹输出      | dump.tensile_*.cfg  | 包含属性 i_a        |
-```
-
 
