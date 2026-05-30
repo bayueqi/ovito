@@ -1,6 +1,3 @@
-以下是对该 LAMMPS 脚本的逐行解析，按顺序整理为 Markdown 格式，可直接保存为 `.md` 文件或用于制作 PPT。
-
-```markdown
 # LAMMPS 脚本逐行解析
 
 ## 文件用途
